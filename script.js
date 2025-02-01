@@ -1,5 +1,5 @@
 document.getElementById("yesBtn").addEventListener("click", function() {
-    alert("Yay! ❤️");
+    alert("❤️ cho na dc ;pp");
 });
 
 document.getElementById("noBtn").addEventListener("mouseover", function() {
